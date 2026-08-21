@@ -1,0 +1,5 @@
+//I did not use the IDE IntelliJ because I have used VSCode before for Python and found it to be more user friendly than IntelliJ.
+I have used IntelliJ for Java in the past and I found it to be more difficult to use and be less user friendly. I don't know for 
+certain if the trials I encountered in the past were the IDE's or if it was that I was just having more difficulty with Java than 
+with Python. Time will tell. I so far have been able to link my VSCode with my GitHub account so this is what I am sticking with 
+for now.//
