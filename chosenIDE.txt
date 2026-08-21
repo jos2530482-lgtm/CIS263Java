@@ -1,0 +1,5 @@
+//The IDE that I chose to use for my project is VSCode. The reason I have chosen to use this IDE is because
+I have used it in the past for my Python class. I thought it was funny that on the tutorial on the Rio Salado
+class lesson page, the person giving the instruction stated that it is "The terminal that we all secretly dislike".
+I had a decent experience with it in the past when using it for Python and am probably more familiar with it than
+the other IDE's so I hope that it doesn't give me too much trouble.//
